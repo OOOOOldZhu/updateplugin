@@ -1,0 +1,19 @@
+{
+  "name": "updateplugin",
+  "version": "1.0.0",
+  "description": "cordova android update app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OOOOOldZhu/updateplugin.git"
+  },
+  "author": "z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OOOOOldZhu/updateplugin/issues"
+  },
+  "homepage": "https://github.com/OOOOOldZhu/updateplugin#readme"
+}

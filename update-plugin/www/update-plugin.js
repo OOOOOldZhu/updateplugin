@@ -1,5 +1,5 @@
 var exec = require('cordova/exec');
 
-exports.coolMethod = function (arg0, success, error) {
-    exec(success, error, 'update-plugin', 'coolMethod', [arg0]);
+exports.check = function (arg0, success, error) {
+    exec(success, error, 'Updater', 'check', [arg0]);
 };
