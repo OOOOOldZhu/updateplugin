@@ -1,0 +1,33 @@
+[
+    {
+        "_id": "5bb0aabf44e5aa0011c",
+        "appKey": "IBB_ANDROID",
+        "releaseInfo": "",
+        "__v": 0,
+        "downloadAt": "2018-10-15T07:32:55.197Z",
+        "downloadCounts": 2991,
+        "status": 4,
+        "updatedAt": "2018-09-30T10:51:43.099Z",
+        "createdAt": "2018-09-30T10:51:43.099Z",
+        "updateUrl": "http://oss.microduino.com/IBBV1.1.0.apk",
+        "ignorable": true,
+        "buildCode": 20180930,
+        "version": "v1.1.0"
+    },
+    {
+        "_id": "5b9b59db44e5aa0011",
+        "appKey": "IBB_ANDROID",
+        "releaseInfo": "",
+        "__v": 0,
+        "downloadAt": "2018-09-30T10:43:11.650Z",
+        "downloadCounts": 330004,
+        "status": 4,
+        "updatedAt": "2018-09-14T06:48:59.607Z",
+        "createdAt": "2018-09-14T06:48:59.607Z",
+        "updateUrl": "http://oss.microduino.com/b1.0.2.apk",
+        "ignorable": true,
+        "buildCode": 20180910,
+        "version": "v1.0.2"
+    }
+]
+
