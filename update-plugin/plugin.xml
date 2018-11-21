@@ -15,6 +15,7 @@
         <!-- src:是插件里存放对应.java的路径， target-dir:安装插件时把.java文件存放的位置，要和上面的value路径对应 -->
         <source-file src="src/android/Updater.java" target-dir="src/com/microduino/mDesigner" />
         <source-file src="src/android/AppUpdateTool.java" target-dir="src/com/microduino/mDesigner" />
+        <source-file src="src/android/strings.xml" target-dir="res/values" />
         <lib-file src="src/android/updatepluginlib.jar" />
     </platform>
 </plugin>
