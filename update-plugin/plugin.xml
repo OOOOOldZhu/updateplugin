@@ -14,6 +14,14 @@
         </config-file>
         <!-- src:是插件里存放对应.java的路径， target-dir:安装插件时把.java文件存放的位置，要和上面的value路径对应 -->
         <source-file src="src/android/Updater.java" target-dir="src/com/microduino/mDesigner" />
+        <source-file src="src/android/BaseDialog.java" target-dir="src/com/microduino/mDesigner" />
+        <source-file src="src/android/styles.xml" target-dir="res/values" />
+        <source-file src="src/android/colors.xml" target-dir="res/values" />
+        <source-file src="src/android/strings.xml" target-dir="res/values" />
+        <source-file src="src/android/strings.xml" target-dir="res/values-en" />
+        <source-file src="src/android/custom_dialog_one_layout.xml" target-dir="res/layout" />
         <lib-file src="src/android/update.jar" />
     </platform>
 </plugin>
+
+
